@@ -1,0 +1,14 @@
+body {
+    --twitter-color: #50b7f5;
+    --twitter-background: #e6ecf0;
+} 
+
+.app {
+    display: flex; /*changes the shape of display from vertically 
+                    Stacked*/
+    height: 100vh;
+    max-width: 1800;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px;
+}
